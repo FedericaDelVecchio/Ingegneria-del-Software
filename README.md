@@ -1,4 +1,4 @@
-# School Management System (Sistema di Gestione Istituto Scolastico)
+# School Management System 
 
 A comprehensive school management system built with Java and MySQL, developed as part of the Software Engineering course (2023) at the University of Naples "Federico II".
 
@@ -206,8 +206,8 @@ This project was developed for the **Software Engineering** course (2023) at the
 
 ## 🤝 Team
 
-- **[Federica Del Vecchio]** 
-- **[Claudia Antonella Esposito](https://github.com/ClaudiaEspo)** -
+- **Federica Del Vecchio** 
+- **[Claudia Antonella Esposito](https://github.com/ClaudiaEspo)** 
 - **Saida Benwadih**
 
 ---
